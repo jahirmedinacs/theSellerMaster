@@ -1,0 +1,1 @@
+{"productTyoe":"comida","productName":"Aji de Gallina","price":{"$numberInt":"5"},"cost":{"$numberInt":"3"},"saleDate":{"$timestamp":{"t":1574649868,"i":1}}}
